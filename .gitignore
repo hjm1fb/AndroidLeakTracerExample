@@ -1,0 +1,17 @@
+
+AndroidLeakTracerExample/.idea/
+AndroidLeakTracerExample/.gradle/
+AndroidLeakTracerExample/app/build/
+.idea/
+AndroidLeakTracerExample/app/.externalNativeBuild/
+
+
+*.iml
+
+*.iml
+
+AndroidLeakTracerExample/AndroidLeakTracerExample.iml
+
+AndroidLeakTracerExample/AndroidLeakTracerExample.iml
+
+*.iml
